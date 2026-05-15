@@ -7,6 +7,7 @@
 - [inline-snapshot](https://15r10nk.github.io/inline-snapshot/latest/): Python
 - [insta](https://insta.rs/): Rust
 - [expect-test](https://docs.rs/expect-test/latest/expect_test/): Rust
+- [vitest](https://vitest.dev/guide/snapshot.html): JavaScript/TypeScript
 - [moonbit/core](https://mooncakes.io/docs/moonbitlang/core/builtin#inspect): Moonbit, stdlib support
     - blog: [Writing tests with joy: MoonBit expect testing](https://www.moonbitlang.com/blog/expect-testing)
 
