@@ -2,6 +2,7 @@
 
 ## Software
 - [ppx_expect](https://github.com/janestreet/ppx_expect): OCaml, ppx
+- [ppx_quick_test](https://github.com/janestreet/ppx_quick_test): OCaml, ppx, property-based testing
 - [dune promotion](https://dune.readthedocs.io/en/stable/concepts/promotion.html#promotion): OCaml, build system
 - [Cram](https://bitheap.org/cram/): shell
 - [inline-snapshot](https://15r10nk.github.io/inline-snapshot/latest/): Python
